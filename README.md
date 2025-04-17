@@ -1,9 +1,8 @@
-# 👽 Astolfinho
+# 🐷 Astolfinho
 **Seja bem-vindo ao meu perfil!**
-> "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
+> "OINC" – Astolfinho ☕🍫💻
 
-Oi, eu sou o Eliseu, um estudante apaixonado por **tecnologia, neurociência e economia**. Acredito que, ao combinar esses conhecimentos, é possível construir um mundo mais mágico, encantador e humano, onde a inovação vai além da lógica — tocando também a mente e o coração das pessoas.
-Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
+Oi, eu sou o Astolfinho, gosto de café, chocolate e código
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astolfinho/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:astolfinho@gmail.com)
@@ -26,4 +25,3 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 ## 📊 Estatísticas
 | ![Astolfinho GitHub Stats](https://github-readme-stats.vercel.app/api?username=astolfinho-br&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=astolfinho-br&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
-
